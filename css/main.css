@@ -204,20 +204,6 @@ main {
   }
 
 
-
-
-  .phone-item p {
-    position: absolute;
-    bottom: 40px;
-    width: 278px;
-  }
-
-  .phone-item > a {
-    position: absolute;
-    bottom: 0px;
-    width: 278px;
-  }
-
   p > a, li > a {
     color: #66d3fa;
   }
