@@ -163,6 +163,8 @@ main {
 
   .about-info .bio-image {
     grid-area: bioimage;
+    margin-top: 10px;
+    margin-bottom: 30px;
     align-self: start;
     justify-self: center;
     border-radius: 50%;
