@@ -203,6 +203,41 @@ main {
     margin-bottom: 8px;
   }
 
+  .item a:nth-child(4) {
+    width: 278px;
+  }
+  .item img:nth-child(2) {
+    position: absolute;
+    width: 236px;
+    top: 64px;
+    left: 21px;
+  }
+
+  .phone-item {
+    margin-bottom: 80px;
+    width: 278px;
+    height: 650px;
+  }
+
+  .phone-item img:nth-child(1) {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 278px;
+  }
+
+  .phone-item p {
+    position: absolute;
+    bottom: 40px;
+    width: 278px;
+  }
+
+  .phone-item > a {
+    position: absolute;
+    bottom: 0px;
+    width: 278px;
+  }
+
 
   p > a, li > a {
     color: #66d3fa;
