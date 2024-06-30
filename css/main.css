@@ -9,7 +9,7 @@
     width: 28px;
     height: 3px;
     margin: 0 0 5px 0;
-    background: #fff;
+    background: #222222;
     transition: all 0.5s ease-out; }
   .menu-btn.close {
     transform: rotate(180deg); }
@@ -99,8 +99,8 @@
   box-sizing: border-box; }
 
 body {
-  background: #1a1a1a;
-  color: #fff;
+  background: #eeeeee;
+  color: #222222;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -248,7 +248,7 @@ main {
   }
 
   .main-project img {
-    border: 3px #fff solid;
+    border: 3px #222222 solid;
     width: 100%;
   }
 
@@ -276,7 +276,7 @@ main {
   margin-top: 1rem; }
   .boxes div {
     font-size: 2rem;
-    border: 3px #fff solid;
+    border: 3px #222222 solid;
     padding: 1.5rem 2.5rem;
     margin-bottom: 3rem;
     transition: all 0.5s ease-out; }
