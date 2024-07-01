@@ -30,12 +30,16 @@
 
 
   .menu-btn.close {
+    
     transform: rotate(180deg); }
     .menu-btn.close .btn-line:nth-child(1) {
+      background: #ffffff;
       transform: rotate(45deg) translate(5px, 5px); }
     .menu-btn.close .btn-line:nth-child(2) {
+      background: #ffffff;
       opacity: 0; }
     .menu-btn.close .btn-line:nth-child(3) {
+      background: #ffffff;
       transform: rotate(-45deg) translate(7px, -6px); }
 
 .menu {
