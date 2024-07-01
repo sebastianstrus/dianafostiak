@@ -9,6 +9,8 @@ const navItems = document.querySelectorAll('.nav-item');
 let showMenu = false;
 
 menuBtn.addEventListener('click', toggleMenu);
+screen.orientation.lock();
+
 
 function toggleMenu() {
   if (!showMenu) {
