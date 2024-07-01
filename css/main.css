@@ -465,3 +465,12 @@ main {
   
 
 
+.nice-shadow {
+  transition: box-shadow .3s;
+  border-radius:10px;
+}
+
+.nice-shadow:hover {
+  box-shadow: 0 0 15px rgba(22,22,22,.5); 
+  transform: scale(1.005);
+}
