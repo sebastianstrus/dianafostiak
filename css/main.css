@@ -442,8 +442,3 @@ main {
 }
 
 
-@media only screen and (orientation: landscape) {
-  body > * {
-    display: none;
-  }
-}
