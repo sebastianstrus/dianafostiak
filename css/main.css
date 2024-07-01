@@ -58,7 +58,7 @@
   .menu-nav {
     margin: 0;
     padding: 0;
-    background: #111;
+    background: #efefef;
     list-style: none;
     transform: translate3d(0, -100%, 0);
     transition: all 0.5s ease-out; }
@@ -90,7 +90,7 @@
     text-transform: uppercase;
     padding: 1rem 0;
     font-weight: 300;
-    color: #fff;
+    color: #111;
     text-decoration: none;
     transition: all 0.5s ease-out; }
     .menu .nav-link:hover {
@@ -117,7 +117,7 @@
   box-sizing: border-box; }
 
 body {
-  background: #eeeeee;
+  background: #ffffff;
   color: #222222;
   height: 100%;
   margin: 0;
@@ -445,9 +445,9 @@ main {
   .menu-branding .portrait {
     width: 80px;
     height: 80px;
-    background-size: cover; /* Adjusts the size of the image */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     overflow: hidden;
   }
 }
@@ -456,9 +456,9 @@ main {
   .menu-branding .portrait {
     width: 80px;
     height: 80px;
-    background-size: cover; /* Adjusts the size of the image */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     overflow: hidden;
   }
 }
