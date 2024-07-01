@@ -150,9 +150,13 @@ h3 {
     background: rgba(00, 00, 00, 0.2);
   }
 
-a {
+  .icons a {
   color: #fff;
   text-decoration: none; }
+
+  a {
+    color: #222222;
+    text-decoration: none; }
 
 header {
   position: fixed;
