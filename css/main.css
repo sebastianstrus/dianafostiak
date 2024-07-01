@@ -440,3 +440,10 @@ main {
     grid-template-columns: 1fr; 
   } 
 }
+
+
+@media only screen and (orientation: landscape) {
+  body > * {
+    display: none;
+  }
+}
