@@ -11,6 +11,24 @@
     margin: 0 0 5px 0;
     background: #222222;
     transition: all 0.5s ease-out; }
+
+    #menu-btn .btn-line {
+      width: 28px;
+      height: 3px;
+      margin: 0 0 5px 0;
+      background: #ffffff;
+      transition: all 0.5s ease-out; }
+
+      #title {
+        color: white;
+      }
+
+      #subtitle {
+        color: #eeeeee;
+      }
+
+
+
   .menu-btn.close {
     transform: rotate(180deg); }
     .menu-btn.close .btn-line:nth-child(1) {
@@ -129,7 +147,7 @@ h3 {
     /*background: rgba(255, 255, 255, 0.8); */}
 
   .light {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(00, 00, 00, 0.2);
   }
 
 a {
