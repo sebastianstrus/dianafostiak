@@ -133,6 +133,11 @@ body {
     background-attachment: fixed;
     background-size: cover; } 
 
+    h5 {
+      margin-top: 20px;
+      font-weight: 600;
+      font-family: "Playfair Display", serif;
+    }
 h1,
 h2,
 h3 {
@@ -160,20 +165,23 @@ h3 {
 
   a {
     color: #222222;
-    text-decoration: none; }
-
-header {
-  position: fixed;
-  z-index: 2;
-  width: 100%; }
-
-.text-secondary {
-  color: #66d3fa !important; }
-
-main {
-  padding: 4rem;
-  min-height: calc(100vh - 60px); }
-  main .icons {
+    text-decoration: none;
+  }
+  
+  header {
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+  }
+  
+  .text-secondary {
+    color: #66d3fa !important;
+  }
+  
+  main {
+    padding: 4rem;
+    min-height: calc(100vh - 60px); }
+    main .icons {
     margin-top: 1rem; }
     main .icons a {
       padding: 0.4rem; }
