@@ -138,7 +138,7 @@ body {
       font-weight: 600;
       font-family: "Playfair Display", serif;
     }
-    #design li {
+    #design li, #work li {
       text-align: left;
     }
 h1,
